@@ -1,0 +1,17 @@
+{
+  "name": "ports-api",
+  "version": "1.0.0",
+  "description": "A simple REST API for managing port data",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
